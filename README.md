@@ -42,3 +42,15 @@ Presentación de mi perfil, proyectos y caso de estudio de CreativeFlow.
 Mi formación en animación 3D incluye modelado, texturizado, rigging, skinning, sincronización labial, iluminación y renderizado. Me interesa aportar esta perspectiva visual al desarrollo de proyectos digitales.
 
 Busco oportunidades para seguir aprendiendo y colaborar en proyectos de desarrollo web, animación y producción audiovisual.
+
+## 🖼️ Galería de proyectos 3D
+
+### Escenario exterior
+Trabajo de iluminación y renderizado realizado en Autodesk Maya con Arnold.
+
+![Render de escenario exterior](Romero_Johanna_EscenarioExterior_Beauty_Semana7.jpg)
+
+### Brazo robótico
+Presentación de mi proyecto de brazo robótico en 3D.
+
+![Vistas del brazo robótico](Brazo_Robotico_Collage_01.jpg)
