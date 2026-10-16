@@ -54,3 +54,7 @@ Trabajo de iluminación y renderizado realizado en Autodesk Maya con Arnold.
 Presentación de mi proyecto de brazo robótico en 3D.
 
 ![Vistas del brazo robótico](Brazo_Robotico_Collage_01.jpg)
+
+### Animación 3D
+
+https://github.com/user-attachments/assets/139d9572-a407-4ef9-911f-135a7c0cba1e
