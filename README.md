@@ -27,7 +27,7 @@ Presentación de mi perfil, proyectos y caso de estudio de CreativeFlow.
 
 **Tecnologías:** Next.js · React · TypeScript
 
-[Ver repositorio](https://github.com/Zkeh-x7/zkeh-x7.github.io)
+[Ver portafolio](https://zkeh-x7.github.io) · [Ver código](https://github.com/Zkeh-x7/zkeh-x7.github.io)
 
 ## 🛠️ Herramientas y conocimientos
 
